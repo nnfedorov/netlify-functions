@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "start": "netlify dev"
+  },
   "dependencies": {
+    "canvas": "^2.11.2",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.7.0"
   }
 }
